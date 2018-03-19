@@ -1,1 +1,1 @@
-This repository contains C++ source files for a console word-guessing game [Bulls and Cows](https://en.wikipedia.org/wiki/Bulls_and_Cows).
+This repository contains C++ source files for a console word-guessing game [Bulls and Cows](https://en.wikipedia.org/wiki/Bulls_and_Cows). I used Unreal style and naming [standard](https://docs.unrealengine.com/en-us/Programming/Development/CodingStandard).
